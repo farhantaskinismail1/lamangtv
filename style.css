@@ -1240,4 +1240,11 @@ span.search-icon svg {
     font-size: 16px;
     cursor: pointer;
   }
+
+  .popup-box {
+    display: block !important;
+  }
+}
+.popup-box {
+  display: none;
 }
